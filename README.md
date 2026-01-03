@@ -1,4 +1,4 @@
-# TPX – Strings and Arrays in Java
+# TP1 – Strings and Arrays in Java
 
 ## Introduction
 
